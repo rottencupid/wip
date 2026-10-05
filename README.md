@@ -3,3 +3,4 @@
 
 <markdown-accessiblity-table data-catalyst>
 <markdown-accessiblity-table data-catalyst=""><table cellpadding="0" cellspacing="0" width="100%">
+</markdown-accessiblity-table>
