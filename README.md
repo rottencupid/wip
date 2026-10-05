@@ -1,11 +1,11 @@
 </tr>й=ЦЦЩШЙВ WOW IM SOOOOOO SMARTT 🤓</tr>
 
-![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=sins+♡&color=ab204a&labelColor=fdfdfe)
-
 <markdown-accessiblity-table data-catalyst>
 <markdown-accessiblity-table data-catalyst=""><table cellpadding="0" cellspacing="0" width="100%">
 </markdown-accessiblity-table>
 <td width="50%" valign="top" align="center"> 
+
+ ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?label=sins+♡&color=ab204a&labelColor=fdfdfe)
  　　 
 <p dir="auto"><math-renderer class="js-inline-math" style="display: inline-block" data-run-id="eb9ba319310d488ccc216650c0768a19" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle mathcolor="#A89293">
