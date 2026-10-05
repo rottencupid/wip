@@ -3,7 +3,7 @@
 <thead>
 <tr>
 <th align="center">
-<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="5bbacba7e7575a748624ab0dd75d7f02" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
+<math-renderer class="js-inline-math" style="display: inline-block" data-run-id="hewwo" data-catalyst=""><math xmlns="http://www.w3.org/1998/Math/MathML">
   <mstyle mathcolor="#F4BF85">
     <mi>ֺ</mi>
     <mi>ּ</mi>
