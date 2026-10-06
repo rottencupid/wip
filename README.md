@@ -171,4 +171,3 @@
   </tbody></table></markdown-accessiblity-table>bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
     </td>
   </tr>
-</tbody></table></markdown-accessiblity-table>
