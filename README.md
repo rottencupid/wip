@@ -82,8 +82,7 @@
       &nbsp;<animated-image data-catalyst="" style="width: 15px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26803a116a1ef1fd728203fd2bf3e9e284664dd1f5b7458c88a94c86a9c70b23/68747470733a2f2f692e706f7374696d672e63632f33776a466a7971512f494d472d313433302e676966" data-target="animated-image.originalLink"><img alt="1" src="https://camo.githubusercontent.com/26803a116a1ef1fd728203fd2bf3e9e284664dd1f5b7458c88a94c86a9c70b23/68747470733a2f2f692e706f7374696d672e63632f33776a466a7971512f494d472d313433302e676966" data-canonical-src="https://i.postimg.cc/3wjFjyqQ/IMG-1430.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/26803a116a1ef1fd728203fd2bf3e9e284664dd1f5b7458c88a94c86a9c70b23/68747470733a2f2f692e706f7374696d672e63632f33776a466a7971512f494d472d313433302e676966" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
+                  <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="1" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/26803a116a1ef1fd728203fd2bf3e9e284664dd1f5b7458c88a94c86a9c70b23/68747470733a2f2f692e706f7374696d672e63632f33776a466a7971512f494d472d313433302e676966" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="15" height="15"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 1" hidden=""></button>
