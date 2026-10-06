@@ -169,7 +169,7 @@
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc4b6ccb0cecc73f867d13bc95eed2b7c7c96b2eff50044a60679fa80c956340/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f372e706e67"><img src="https://camo.githubusercontent.com/cc4b6ccb0cecc73f867d13bc95eed2b7c7c96b2eff50044a60679fa80c956340/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f372e706e67" width="160" height="160" alt="2" data-canonical-src="https://file.garden/afMNaszj4BOnPmsW/some%20bs/7.png" style="max-width: 100%; height: auto; max-height: 160px;; aspect-ratio: 160 / 160; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
     </td>
   </tr>
-</tbody></table></markdown-accessiblity-table>bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+  </tbody></table></markdown-accessiblity-table>bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
     </td>
   </tr>
 </tbody></table></markdown-accessiblity-table>
