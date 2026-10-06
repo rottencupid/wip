@@ -129,8 +129,7 @@
       </span></animated-image><br>
       &nbsp; <br>
       &nbsp;<a target="_blank" rel="noopener noreferrer nofollow" <img width="120" height="120" alt="tumblr_e2de83ee19aaf2a88674660d4fba77fc_a09087e4_250" src="https://github.com/user-attachments/assets/874fd2ab-cf0b-4715-ba3f-fbbaf5752257" />
-            
-  </tr>
+   </tr>
   </tbody></table></markdown-accessiblity-table>
 
 .
