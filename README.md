@@ -176,4 +176,4 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
 /
 
   
-/ <img alt="1" src="https://camo.githubusercontent.com/0745220942114d806ee6d3332636e64d2532cae93396ac23a97260191485cf24/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686967756461267374796c653d666f722d7468652d626164676526636f6c6f723d303030303030266c6162656c3d76696374696d732661626272657669617465643d7472756526626173653d35343830" data-canonical-src="https://komarev.com/ghpvc/?username=rottencupid&amp;style=for-the-badge&amp;color=000000&amp;label=victims&amp;abbreviated=true&amp;base=5480" style="max-width: 100%;">
+/ <img alt="1" src="https://views.igorkowalczyk.dev/api/badge/rottencupid" data-canonical-src="https://komarev.com/ghpvc/?username=rottencupid&amp;style=for-the-badge&amp;color=000000&amp;label=victims&amp;abbreviated=true&amp;base=5480" style="max-width: 100%;">
