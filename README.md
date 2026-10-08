@@ -74,7 +74,7 @@
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/00b6ae73e8c85ff95f9382a89b2a030eac8ea5a68640087fac31c62f7a8268b7/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f362e706e67"><img src="https://camo.githubusercontent.com/00b6ae73e8c85ff95f9382a89b2a030eac8ea5a68640087fac31c62f7a8268b7/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f362e706e67" width="160" height="160" alt="1" data-canonical-src="https://file.garden/afMNaszj4BOnPmsW/some%20bs/6.png" style="max-width: 100%; height: auto; max-height: 160px;; aspect-ratio: 160 / 160; background-color: var(--bgColor-muted); border-radius: 6" class="js-gh-image-fallback"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" <img width="120" height="120" alt="tumblr_e2de83ee19aaf2a88674660d4fba77fc_a09087e4_250" src="https://github.com/user-attachments/assets/b9760ad2-223c-4aba-b4f9-6767f8c7c481"  width="160" height="160" alt="1" data-canonical-src="https://file.garden/afMNaszj4BOnPmsW/some%20bs/6.png" style="max-width: 100%; height: auto; max-height: 160px;; aspect-ratio: 160 / 160; border-radius: 6" class="js-gh-image-fallback"></a>/>
     </td>
     <td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♱&nbsp;&nbsp;───────<br>
