@@ -1,3 +1,4 @@
+
 </tr>й=ЦЦЩШЙВ WOW IM SOOOOOO SMARTT 🤓</tr>
 
 <markdown-accessiblity-table data-catalyst>
@@ -74,7 +75,7 @@
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" <img width="120" height="120" alt="tumblr_e2de83ee19aaf2a88674660d4fba77fc_a09087e4_250" src="https://github.com/user-attachments/assets/b9760ad2-223c-4aba-b4f9-6767f8c7c481" />
+      <img width="120" height="120" alt="tumblr_e2de83ee19aaf2a88674660d4fba77fc_a09087e4_250" src="https://github.com/user-attachments/assets/72572fb9-6fad-435c-b4d4-53b97c7078d6" />
     </td>
     <td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♱&nbsp;&nbsp;───────<br>
