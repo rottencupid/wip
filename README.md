@@ -138,7 +138,7 @@
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e756c5e413153c9efad481ff861eddb33fc5040ede0fd06f9c3a087046e20088/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f31322e706e6a"><img width="90px" alt="1" src="https://camo.githubusercontent.com/e756c5e413153c9efad481ff861eddb33fc5040ede0fd06f9c3a087046e20088/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f31322e706e6a" data-canonical-src="https://file.garden/afMNaszj4BOnPmsW/some%20bs/12.pnj" style="max-width: 100;"></a> <br>
+      <img width="72" height="18" alt="tumblr_db65bf40ded67c5f41c2350cbd4ddcc0_d8f42eb3_75" src="https://github.com/user-attachments/assets/2717a842-b853-45bb-a3b6-5b37b820b927" />
       &nbsp;&nbsp;&nbsp;<a href="https://en.pronouns.page/@hispup" rel="nofollow">pr</a>ns&nbsp;&nbsp;&nbsp;&nbsp;dni&nbsp;&nbsp;&nbsp;byi&nbsp;&nbsp; <br>
       &nbsp;&nbsp;<animated-image data-catalyst="" style="width: 120;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b423ce02cf3062f35568620530568efaf2c5a76864f3ab9e421033013093a29a/68747470733a2f2f692e706f7374696d672e63632f4d704235356454722f494d475f303735302e676966" data-target="animated-image.originalLink">
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
