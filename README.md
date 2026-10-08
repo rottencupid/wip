@@ -150,6 +150,7 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
        <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
        </svg>
           </a>
+        ────────
         </span>
         ────────
       </span></animated-image><br>
