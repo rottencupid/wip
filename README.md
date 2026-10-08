@@ -149,9 +149,9 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
        &nbsp;&nbsp;&nbsp;&nbsp; ask to dm! <img width="20" height="20" alt="tumblr_38dafbc8fa0b77ca40f4b3abac080d2e_9e2325dd_75" src="https://github.com/user-attachments/assets/745cd904-f277-4f15-8603-f70a791fde8b" />
        <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
        </svg>
-        ────────
           </a>
         </span>
+        ────────
       </span></animated-image><br>
       &nbsp; <br>
       &nbsp;<img width="140" height="21" alt="tumblr_0faafd98865eb8a9bf6272e5fbcac500_144925d5_400" src="https://github.com/user-attachments/assets/dde5fe1c-cb67-403b-9d3b-d2aa455b548c" />
