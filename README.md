@@ -148,6 +148,11 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
       &nbsp; <br>
        &nbsp;&nbsp;&nbsp;&nbsp; ask to dm! <img width="20" height="20" alt="tumblr_38dafbc8fa0b77ca40f4b3abac080d2e_9e2325dd_75" src="https://github.com/user-attachments/assets/745cd904-f277-4f15-8603-f70a791fde8b" />
        <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+            </svg>
+          </a>
+        </span>
+      &nbsp; <br>
+      &nbsp;<img width="400" height="30" alt="tumblr_0d6b52dec1634a1bd15c1a922b0311a3_7e0e1538_400" src="https://github.com/user-attachments/assets/364f343d-1f54-456c-9de1-900aa20675eb" />
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/b423ce02cf3062f35568620530568efaf2c5a76864f3ab9e421033013093a29a/68747470733a2f2f692e706f7374696d672e63632f4d704235356454722f494d475f303735302e676966" target="_blank">
                   <span data-target="animated-image.imageContainer">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="120" height="22"></canvas></span></a>
