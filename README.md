@@ -165,7 +165,7 @@
       </span></animated-image>
     </td>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cc4b6ccb0cecc73f867d13bc95eed2b7c7c96b2eff50044a60679fa80c956340/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f372e706e67"><img src="https://camo.githubusercontent.com/cc4b6ccb0cecc73f867d13bc95eed2b7c7c96b2eff50044a60679fa80c956340/68747470733a2f2f66696c652e67617264656e2f61664d4e61737a6a34424f6e506d73572f736f6d6525323062732f372e706e67" width="160" height="160" alt="2" data-canonical-src="https://file.garden/afMNaszj4BOnPmsW/some%20bs/7.png" style="max-width: 100; height: auto; max-height: 160;; aspect-ratio: 160 / 160; background-color:; border-radius: 6" class="js-gh-image-fallback"></a>
+      <img width="250" height="142" alt="tumblr_c8aeab50b83f0c0c0b479039ceb49144_17eae72d_250" src="https://github.com/user-attachments/assets/d10d1efb-ddde-4151-afc9-c33e40117d48" />
     </td>
   </tr>
   </tbody></table></markdown-accessiblity-table>
