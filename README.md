@@ -74,7 +74,7 @@
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" <img width="120" height="120" alt="tumblr_e2de83ee19aaf2a88674660d4fba77fc_a09087e4_250" src="https://github.com/user-attachments/assets/b9760ad2-223c-4aba-b4f9-6767f8c7c481"  width="160" height="160" alt="1" data-canonical-src="https://file.garden/afMNaszj4BOnPmsW/some%20bs/6.png" style="max-width: 100%; height: auto; max-height: 160px;; aspect-ratio: 160 / 160; border-radius: 6" class="js-gh-image-fallback"></a>/>
+      <a target="_blank" rel="noopener noreferrer nofollow" <img width="120" height="120" alt="tumblr_e2de83ee19aaf2a88674660d4fba77fc_a09087e4_250" src="https://github.com/user-attachments/assets/b9760ad2-223c-4aba-b4f9-6767f8c7c481" />
     </td>
     <td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♱&nbsp;&nbsp;───────<br>
