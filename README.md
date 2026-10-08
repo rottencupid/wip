@@ -139,7 +139,7 @@
   <tbody><tr>
     <td>
       <img width="72" height="18" alt="tumblr_db65bf40ded67c5f41c2350cbd4ddcc0_d8f42eb3_75" src="https://github.com/user-attachments/assets/2717a842-b853-45bb-a3b6-5b37b820b927" />
-      &nbsp;&nbsp;&nbsp; [carrd](https://yaoicupid.carrd.co)&nbsp;&nbsp;&nbsp;&nbsp;pint&nbsp;&nbsp;&nbsp;byi&nbsp;&nbsp; <br>
+      &nbsp;&nbsp;&nbsp; [carrd](https://yaoicupid.carrd.co) &nbsp;&nbsp;&nbsp;&nbsp;pint&nbsp;&nbsp;&nbsp;byi&nbsp;&nbsp; <br>
       &nbsp;&nbsp;<animated-image data-catalyst="" style="width: 120;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b423ce02cf3062f35568620530568efaf2c5a76864f3ab9e421033013093a29a/68747470733a2f2f692e706f7374696d672e63632f4d704235356454722f494d475f303735302e676966" data-target="animated-image.originalLink">
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/b423ce02cf3062f35568620530568efaf2c5a76864f3ab9e421033013093a29a/68747470733a2f2f692e706f7374696d672e63632f4d704235356454722f494d475f303735302e676966" target="_blank">
