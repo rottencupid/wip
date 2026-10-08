@@ -176,7 +176,4 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
 /
 
   
- <a href="[https://en.pronouns.page/@hispup](https://yaoicupid.carrd.co)" rel="nofollow">
-      &nbsp;&nbsp;&nbsp;carrd&nbsp;&nbsp;&nbsp;&nbsp;dni&nbsp;&nbsp;&nbsp;byi&nbsp;&nbsp; 
-
-<img width="20" height="20" alt="tumblr_198024cb04ee892aa30bbb79d365d5c7_37dde6da_75" src="https://github.com/user-attachments/assets/d50aac92-db05-4fa4-b028-dd17edc4cca4" />
+/ <img alt="1" src="https://camo.githubusercontent.com/0745220942114d806ee6d3332636e64d2532cae93396ac23a97260191485cf24/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686967756461267374796c653d666f722d7468652d626164676526636f6c6f723d303030303030266c6162656c3d76696374696d732661626272657669617465643d7472756526626173653d35343830" data-canonical-src="https://komarev.com/ghpvc/?username=shiguda&amp;style=for-the-badge&amp;color=000000&amp;label=victims&amp;abbreviated=true&amp;base=5480" style="max-width: 100%;">
