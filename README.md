@@ -10,7 +10,7 @@
             </svg>
           </a>
         </span>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ <img width="30" height="30" alt="tumblr_96a2808e9230b48568f0b1a6201eb408_f33ff016_100" src="https://github.com/user-attachments/assets/40335d7d-7a8c-41c4-86af-a2c4de36d229" /><br>
+ㅤㅤㅤㅤㅤㅤ<img width="30" height="30" alt="tumblr_96a2808e9230b48568f0b1a6201eb408_f33ff016_100" src="https://github.com/user-attachments/assets/40335d7d-7a8c-41c4-86af-a2c4de36d229" /><br>
       &nbsp;xiangsi&nbsp;&nbsp;&nbsp;&nbsp;ₒᵣ&nbsp;&nbsp;&nbsp;&nbsp;𝒶ma <br>
       &nbsp;<animated-image data-catalyst="" style="width: 15;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26803a116a1ef1fd728203fd2bf3e9e284664dd1f5b7458c88a94c86a9c70b23/68747470733a2f2f692e706f7374696d672e63632f33776a466a7971512f494d472d313433302e676966" data-target="animated-image.originalLink">
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
