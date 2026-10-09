@@ -134,7 +134,7 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
    </tr>
   </tbody></table></markdown-accessiblity-table>
 
-.
+.<img width="400" height="68" alt="tumblr_c490ed3535276c530aa380b28ff1aa6d_1a307aad_400" src="https://github.com/user-attachments/assets/8f189bae-77cf-4b72-87ae-ba7e010b0c57" />
 
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
