@@ -102,6 +102,6 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
 
 <mstyle mathcolor="#ffceea">
       <mrow data-mjx-texclass="ORD">
-        <mtext mathvariant="sans-serif">aka -</mtext>
+        <mtext mathvariant="sans-serif">aka</mtext>
       </mrow>
     </mstyle>
