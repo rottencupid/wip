@@ -15,7 +15,7 @@
         </span>
         </span>
       &nbsp;۫ㅤ相思 ؛ 𝔁iangsi&nbsp;&nbsp;&nbsp;&nbsp;<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;[aka]{#ffceea}&nbsp;&nbsp;&nbsp;&nbsp;𝓪ma&nbsp;&nbsp;𓏵ㅤ<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;[aka](&color=#ffceea)&nbsp;&nbsp;&nbsp;&nbsp;𝓪ma&nbsp;&nbsp;𓏵ㅤ<br>
             </svg>
           </a>
         </span>
