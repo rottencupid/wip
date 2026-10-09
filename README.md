@@ -60,7 +60,7 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
       </span></animated-image><br>
      &nbsp;&nbsp;&nbsp;&nbsp; ─────────
       &nbsp; <br>
-      &nbsp;<img width="140" height="21" alt="tumblr_0faafd98865eb8a9bf6272e5fbcac500_144925d5_400" src="https://github.com/user-attachments/assets/dde5fe1c-cb67-403b-9d3b-d2aa455b548c" />
+      &nbsp;<img width="20" height="20" alt="tumblr_3bf71c38667ef7658a76c9423d575fdb_b9e7a6c5_75" src="https://github.com/user-attachments/assets/0ade69f3-ace4-4906-9647-7e6805b71349" />
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/b423ce02cf3062f35568620530568efaf2c5a76864f3ab9e421033013093a29a/68747470733a2f2f692e706f7374696d672e63632f4d704235356454722f494d475f303735302e676966" target="_blank">
                   <span data-target="animated-image.imageContainer">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="120" height="22"></canvas></span></a>
