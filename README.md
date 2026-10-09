@@ -7,7 +7,7 @@
       <img width="250" height="142" alt="tumblr_90cf8b7c0108c58754e9f52aa942cfde_e45e9103_250" src="https://github.com/user-attachments/assets/4a1b9391-d3e4-472b-9238-edaec0ce904f" />
     </td>
     <td>
-ㅤ&nbsp;&nbsp; <img width="26" height="21" alt="tumblr_7869ec8ad78161b9ec6d766aeb6a1bc8_e72b91df_75" src="https://github.com/user-attachments/assets/1cc9ef51-3c6d-42a5-b659-cc6c7a8917da" /><img width="26" height="21" alt="tumblr_a3cea4f3b5c26782dd5a73f25159ca36_a8965e70_75" src="https://github.com/user-attachments/assets/eb8b4148-0f8d-4cc3-8522-840a7601f7c3" /><br>
+ㅤ&nbsp;&nbsp;&nbsp;&nbsp; <img width="26" height="21" alt="tumblr_7869ec8ad78161b9ec6d766aeb6a1bc8_e72b91df_75" src="https://github.com/user-attachments/assets/1cc9ef51-3c6d-42a5-b659-cc6c7a8917da" /><img width="26" height="21" alt="tumblr_a3cea4f3b5c26782dd5a73f25159ca36_a8965e70_75" src="https://github.com/user-attachments/assets/eb8b4148-0f8d-4cc3-8522-840a7601f7c3" /><br>
        </svg>
      &nbsp;&nbsp;&nbsp;&nbsp;─────────
       &nbsp; <br>
