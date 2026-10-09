@@ -20,10 +20,6 @@
           </a>
         </span>
       </span></animated-image>&nbsp;&nbsp;&nbsp;&nbsp;𝐶𝐼𝑆hehim&nbsp;&nbsp;&nbsp; <br>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/cf8f06be130575b65705314dc36cfcf06b244f4ad51d523b7261570235b935ed/68747470733a2f2f692e706f7374696d672e63632f56364439547831372f494d472d313433332e676966" target="_blank">
-                  <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="1" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/cf8f06be130575b65705314dc36cfcf06b244f4ad51d523b7261570235b935ed/68747470733a2f2f692e706f7374696d672e63632f56364439547831372f494d472d313433332e676966" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="15" height="15"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 1" hidden=""></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
