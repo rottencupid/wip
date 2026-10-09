@@ -100,10 +100,8 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
 
   <img width="99" height="57" alt="tumblr_e762fd3d5317a05fd36723a670eec508_54ca69bb_100" src="https://github.com/user-attachments/assets/3b096ce0-19a1-4ebc-9830-6a3c36257ff2" />
 
-<mstyle mathsize="0.85em">
-    <mstyle mathcolor="#75a3c6">
-      <mrow data-mjx-texclass="ORD">
-        <mtext mathvariant="sans-serif">SPIDER -</mtext>
-      </mrow>
-    </mstyle>
+<mstyle mathcolor="#b4d44d">
+    <mrow data-mjx-texclass="ORD">
+      <mtext mathvariant="sans-serif">and Extra ”</mtext>
+    </mrow>
   </mstyle>
