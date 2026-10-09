@@ -7,7 +7,7 @@
       <img width="250" height="142" alt="tumblr_90cf8b7c0108c58754e9f52aa942cfde_e45e9103_250" src="https://github.com/user-attachments/assets/4a1b9391-d3e4-472b-9238-edaec0ce904f" />
     </td>
     <td>
-ㅤ&nbsp;&nbsp; <img width="40" height="33" alt="tumblr_abc010e7eaf370e9d0aa7f52ad0eca9f_c55dd4e1_100" src="https://github.com/user-attachments/assets/bcbf1664-c648-45e8-88fd-ab9d812c0998" /><img width="40" height="33" alt="tumblr_cf5b69e21937555bc8a2a1a5d581cc2f_9eb18622_100" src="https://github.com/user-attachments/assets/c95ed073-50e6-445a-bc4a-657ac09bd76d" /><br>
+ㅤ&nbsp;&nbsp; <img width="26" height="21" alt="tumblr_7869ec8ad78161b9ec6d766aeb6a1bc8_e72b91df_75" src="https://github.com/user-attachments/assets/1cc9ef51-3c6d-42a5-b659-cc6c7a8917da" /><img width="26" height="21" alt="tumblr_a3cea4f3b5c26782dd5a73f25159ca36_a8965e70_75" src="https://github.com/user-attachments/assets/eb8b4148-0f8d-4cc3-8522-840a7601f7c3" /><br>
        </svg>
      &nbsp;&nbsp;&nbsp;&nbsp;─────────
       &nbsp; <br>
@@ -99,5 +99,3 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ <img width="300" height="10" alt="tumblr_5144c0661a548035abbadc60d9f5534d_0de7aa85_400" src="https://github.com/user-attachments/assets/b206d54a-2880-467b-9313-26923483adf6" />
 
   <img width="99" height="57" alt="tumblr_e762fd3d5317a05fd36723a670eec508_54ca69bb_100" src="https://github.com/user-attachments/assets/3b096ce0-19a1-4ebc-9830-6a3c36257ff2" />
-
-<img width="26" height="21" alt="tumblr_7869ec8ad78161b9ec6d766aeb6a1bc8_e72b91df_75" src="https://github.com/user-attachments/assets/1cc9ef51-3c6d-42a5-b659-cc6c7a8917da" /><img width="26" height="21" alt="tumblr_a3cea4f3b5c26782dd5a73f25159ca36_a8965e70_75" src="https://github.com/user-attachments/assets/eb8b4148-0f8d-4cc3-8522-840a7601f7c3" />
