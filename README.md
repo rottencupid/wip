@@ -9,7 +9,7 @@
     <td>
 ㅤ&nbsp;&nbsp; <img width="40" height="33" alt="tumblr_abc010e7eaf370e9d0aa7f52ad0eca9f_c55dd4e1_100" src="https://github.com/user-attachments/assets/bcbf1664-c648-45e8-88fd-ab9d812c0998" /><img width="40" height="33" alt="tumblr_cf5b69e21937555bc8a2a1a5d581cc2f_9eb18622_100" src="https://github.com/user-attachments/assets/c95ed073-50e6-445a-bc4a-657ac09bd76d" /><br>
        </svg>
-     &nbsp;&nbsp;&nbsp;&nbsp; ─────────
+     &nbsp;&nbsp;&nbsp;&nbsp;─────────
       &nbsp; <br>
       &nbsp;xiangsi&nbsp;&nbsp;&nbsp;&nbsp;ₒᵣ&nbsp;&nbsp;&nbsp;&nbsp;𝒶ma <br>
       &nbsp;<animated-image data-catalyst="" style="width: 15;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26803a116a1ef1fd728203fd2bf3e9e284664dd1f5b7458c88a94c86a9c70b23/68747470733a2f2f692e706f7374696d672e63632f33776a466a7971512f494d472d313433302e676966" data-target="animated-image.originalLink">
