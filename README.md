@@ -9,7 +9,6 @@
     <td>
 ㅤㅤ<img width="40" height="33" alt="tumblr_abc010e7eaf370e9d0aa7f52ad0eca9f_c55dd4e1_100" src="https://github.com/user-attachments/assets/bcbf1664-c648-45e8-88fd-ab9d812c0998" /><img width="40" height="33" alt="tumblr_cf5b69e21937555bc8a2a1a5d581cc2f_9eb18622_100" src="https://github.com/user-attachments/assets/c95ed073-50e6-445a-bc4a-657ac09bd76d" /><br>
        </svg>
-          </a>
       </span></animated-image><br>
      &nbsp;&nbsp;&nbsp;&nbsp; ─────────
       &nbsp; <br>
