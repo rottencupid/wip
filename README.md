@@ -7,7 +7,7 @@
       <img width="250" height="142" alt="tumblr_90cf8b7c0108c58754e9f52aa942cfde_e45e9103_250" src="https://github.com/user-attachments/assets/4a1b9391-d3e4-472b-9238-edaec0ce904f" />
     </td>
     <td>
-<img width="140" height="21" alt="tumblr_856923aa20363139f320757de7d84b14_1d10aa55_400" src="https://github.com/user-attachments/assets/7f3fa319-c8b6-4493-a476-857189a2b6d7" /><br>
+<img width="400" height="27" alt="tumblr_7542bfe1aeb1308bd93820b4dc042c2b_026bbab7_400" src="https://github.com/user-attachments/assets/43a7cb1d-08b0-4162-9db1-097077074331" /><br>
       &nbsp;xiangsi&nbsp;&nbsp;&nbsp;&nbsp;ₒᵣ&nbsp;&nbsp;&nbsp;&nbsp;𝒶ma <br>
       &nbsp;<animated-image data-catalyst="" style="width: 15;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26803a116a1ef1fd728203fd2bf3e9e284664dd1f5b7458c88a94c86a9c70b23/68747470733a2f2f692e706f7374696d672e63632f33776a466a7971512f494d472d313433302e676966" data-target="animated-image.originalLink">
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
