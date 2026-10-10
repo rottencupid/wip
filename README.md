@@ -93,7 +93,7 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ<img width="300" height="10" alt="tumblr_0851bcc8c0055d5a040885205cf9e979_96edf7b0_400" src="https://github.com/user-attachments/assets/24385ada-0833-414a-9011-03acddf9840a" />
 
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=(+=+⩊+=+)+&color=ffeef3&labelColor=e1b08b)
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Github Views](https://views.igorkowalczyk.dev/api/badge/rottencupid?style=flat&label=(+=+⩊+=+)+&color=ffeef3&labelColor=e1b08b)
             </svg>
           </a>
         </span>
