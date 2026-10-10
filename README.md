@@ -40,7 +40,7 @@
    </tr>
   </tbody></table></markdown-accessiblity-table>
 
- ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ ㅤㅤㅤ<img width="400" height="31" alt="tumblr_b48a0a40c857419b69f5fddd9bcd94c8_5de24f0e_400" src="https://github.com/user-attachments/assets/66400406-d322-440a-bb24-b0edc9f29bf1" />
+ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ ㅤ<img width="400" height="31" alt="tumblr_b48a0a40c857419b69f5fddd9bcd94c8_5de24f0e_400" src="https://github.com/user-attachments/assets/66400406-d322-440a-bb24-b0edc9f29bf1" />
 
 <markdown-accessiblity-table data-catalyst=""><table align="center">
   <tbody><tr>
