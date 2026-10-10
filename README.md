@@ -9,12 +9,12 @@
     <td>
 ㅤ<img width="140" height="21" alt="tumblr_6378340e6807ecb65b144b1c58820457_e8118f55_400" src="https://github.com/user-attachments/assets/88d8640f-c98e-4442-b604-113820fda661" /><br>
        </svg>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;─────────
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ─────────
       &nbsp; <br>
        </svg>
         </span>
         </span>
-      &nbsp;&nbsp;&nbsp;˖ ͟♥︎ 𝔁iangsi&nbsp;&nbsp;؛&nbsp;&nbsp;相思<br>
+      &nbsp;&nbsp;&nbsp; ˖ ͟♥︎ 𝔁iangsi&nbsp;&nbsp;؛&nbsp;&nbsp;相思<br>
       &nbsp;&nbsp;&nbsp;&nbsp;aka&nbsp;&nbsp;&nbsp;&nbsp;𝓪ma&nbsp;&nbsp;<img width="20" height="20" alt="tumblr_4b5c747d2749d387cbd78dd4bfffb164_d809f74c_75" src="https://github.com/user-attachments/assets/c5da2bb7-41ae-48b8-a1fa-09bdbaed0565" />ㅤ<br>
             </svg>
           </a>
