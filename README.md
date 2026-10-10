@@ -19,7 +19,7 @@
             </svg>
           </a>
         </span>
-      </span></animated-image>&nbsp;&nbsp;&nbsp;&nbsp;𝐶𝐼𝑆hehim&nbsp;&nbsp;&nbsp; <br>
+      </span></animated-image><img width="33" height="20" alt="tumblr_3a45bd45e4eb37a1559ba73207fabc00_509701f1_75" src="https://github.com/user-attachments/assets/f0862bfd-9bed-43a3-b223-138f13a0c56b" />&nbsp;&nbsp;&nbsp;&nbsp;𝐶𝐼𝑆hehim&nbsp;&nbsp;&nbsp; <br>
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="15" height="15"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 1" hidden=""></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
