@@ -9,7 +9,7 @@
     <td>
 ㅤ<img width="140" height="21" alt="tumblr_6378340e6807ecb65b144b1c58820457_e8118f55_400" src="https://github.com/user-attachments/assets/88d8640f-c98e-4442-b604-113820fda661" /><br>
        </svg>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ─────────
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; ─────────
       &nbsp; <br>
        </svg>
         </span>
