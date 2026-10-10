@@ -14,7 +14,7 @@
        </svg>
         </span>
         </span>
-      &nbsp;˖ ͟♥︎ 𝔁iangsi&nbsp;&nbsp;&nbsp;&nbsp;؛ 相思<br>
+      &nbsp;˖ ͟♥︎ 𝔁iangsi&nbsp;&nbsp;؛&nbsp;&nbsp;相思<br>
       &nbsp;&nbsp;&nbsp;&nbsp;aka&nbsp;&nbsp;&nbsp;&nbsp;𝓪ma&nbsp;&nbsp;ㅤ<br>
             </svg>
           </a>
