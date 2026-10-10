@@ -52,7 +52,7 @@ href="https://camo.githubusercontent.com/0e110be587e117f5d2985521f73889b6ed88967
           </a>
         </span>
       &nbsp; <br>
-       &nbsp;&nbsp;&nbsp;&nbsp; ask to dm! <img width="20" height="20" alt="tumblr_38dafbc8fa0b77ca40f4b3abac080d2e_9e2325dd_75" src="https://github.com/user-attachments/assets/745cd904-f277-4f15-8603-f70a791fde8b" />
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ask to dm! <img width="20" height="20" alt="tumblr_38dafbc8fa0b77ca40f4b3abac080d2e_9e2325dd_75" src="https://github.com/user-attachments/assets/745cd904-f277-4f15-8603-f70a791fde8b" />
        <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
        </svg>
           </a>
